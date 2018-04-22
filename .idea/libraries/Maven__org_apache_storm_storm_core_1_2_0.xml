@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.storm:storm-core:1.2.0">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0/storm-core-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0/storm-core-1.2.0-sources.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0" />
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.2.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
