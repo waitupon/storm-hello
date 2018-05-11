@@ -12,13 +12,15 @@ public  class RpcClientDemo {
 
         public static void main(String[] args) {
             MyRpcClientFacade client = new MyRpcClientFacade();
-            client.init("127.0.0.1",41414);
+            client.init("localhost",41414);
 
-            for(int i=0;i<10;i++){
-                String sampleData = " Hello Flume!ERROR" + i;
+            for(int i=200;i<210;i++){
+                String sampleData = " Hello Flume!Su" + i;
                 client.sendDataToFlume(sampleData);
                 System.out.println("发送数据：" + sampleData);
             }
+
+            client.cleanUp();
 
         }
 
